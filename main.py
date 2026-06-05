@@ -1,3 +1,4 @@
+#2вариант
 import z_1
 import z_2
 import z_3
