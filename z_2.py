@@ -1,3 +1,4 @@
+#2вариант
 #Фасад
 class light_main:
     def light_off(self):
